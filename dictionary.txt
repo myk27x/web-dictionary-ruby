@@ -1,0 +1,3 @@
+button = a fastener designed primarily for keeping clothing on the body
+kitchen = a room in a dwelling intended for the preparation of meals
+dog = more than man's best friend
